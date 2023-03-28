@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Montserrat, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "editor.cursorStyle": "block",
+    "editor.accessibilityPageSize": 12,
+    "editor.codeActionWidget.showHeaders": false
+}
